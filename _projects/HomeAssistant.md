@@ -25,13 +25,13 @@ This custom home automation system is built using [Home Assistant](https://www.h
 
 
 <h3>Web View:</h3>
-<img src="{{site.baseurl}}/assets/images/HA_web_1.png" alt="mobile1" style="display: block; margin: auto">
+<img src="{{site.baseurl}}/assets/images/HA_web_1.png" alt="web1" style="display: block; margin: auto">
 
 
-<img src="{{site.baseurl}}/assets/images/HA_web_2.jpg" alt="mobile1" style="display: block; margin: auto">
+<img src="{{site.baseurl}}/assets/images/HA_web_2.jpg" alt="web2" style="display: block; margin: auto">
 
 
-<img src="{{site.baseurl}}/assets/images/HA_web_3.jpg" alt="mobile1" style="display: block; margin: auto">
+<img src="{{site.baseurl}}/assets/images/HA_web_3.jpg" alt="web3" style="display: block; margin: auto">
 
 
 <h3>Mobile View:</h3>
