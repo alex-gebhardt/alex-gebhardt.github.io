@@ -30,10 +30,16 @@ title: Experience
 
 ## Work:
 
+
+### Sr. Controls Engineer
+#### Barry-Wehmiller Design Group
+##### Oak Brook IL
+##### 2024-Present
+
 ### Controls Engineer
 #### Barry-Wehmiller Design Group
 ##### Romeoville IL
-##### 2019-Present
+##### 2019-2023
 ---
 - Working as a systems integrator on a variety of projects: new line control and integration, line modifications/additions, PLC conversion, and troubleshooting for primary packaging, secondary packaging, palletizing, and process.
 - Creating functional requirement specifications detailing control methodology; types and quantities of sensors, motors, VFDs/starters, control stations, E-Stops; device locations; and machine interlocks. Writing PLC programs and creating HMI applications per the FRS.
